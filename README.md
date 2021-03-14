@@ -1,6 +1,5 @@
 
-[link] (https://github.com/Oxiox/shg/master/index.html) 
-<a harf="https://github.com/Oxiox/md-page/master/index.html">go</a>
+[link] (https://github.com/Oxiox/shg/index.html) 
 
 # Header
 Welcome to my simplest site
