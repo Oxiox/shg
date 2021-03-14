@@ -1,6 +1,6 @@
 
-<!-- my-page.html
-<script src="https://github.com/Oxiox/md-page/master/index.html"></script><noscript>
+
+<a harf="https://github.com/Oxiox/md-page/master/index.html">go</a>
 
 # Header
 Welcome to my simplest site
