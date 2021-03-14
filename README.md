@@ -1,5 +1,5 @@
 
-[link] (/index.html) 
+[link] (https://github.com/Oxiox/shg/master/index.html) 
 <a harf="https://github.com/Oxiox/md-page/master/index.html">go</a>
 
 # Header
