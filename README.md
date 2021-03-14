@@ -1,3 +1,3 @@
 
 
-[Contribution guidelines for this project](index.php)
+[Contribution guidelines for this project](index.html)
