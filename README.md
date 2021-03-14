@@ -1,3 +1,10 @@
 
+<!-- my-page.html
+<script src="https://github.com/Oxiox/md-page/master/index.html"></script><noscript>
 
-[Contribution guidelines for this project](index.html)
+# Header
+Welcome to my simplest site
+
+- An
+- awesome
+- list
