@@ -1,3 +1,3 @@
 
 # Welcome, I've been expecting you.
-![](./image.svg)
+![](./index.html)
